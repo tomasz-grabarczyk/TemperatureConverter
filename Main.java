@@ -1,4 +1,4 @@
-package unitConverter;
+package temperatureConverterGUI;
 
 public class Main {
 
